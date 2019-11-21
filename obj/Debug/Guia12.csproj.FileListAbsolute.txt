@@ -1,0 +1,7 @@
+C:\Users\humbe\source\repos\Guia12\bin\Debug\Guia12.exe.config
+C:\Users\humbe\source\repos\Guia12\bin\Debug\Guia12.exe
+C:\Users\humbe\source\repos\Guia12\bin\Debug\Guia12.pdb
+C:\Users\humbe\source\repos\Guia12\obj\Debug\Guia12.csprojAssemblyReference.cache
+C:\Users\humbe\source\repos\Guia12\obj\Debug\Guia12.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Guia12\obj\Debug\Guia12.exe
+C:\Users\humbe\source\repos\Guia12\obj\Debug\Guia12.pdb
